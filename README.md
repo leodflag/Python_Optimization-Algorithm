@@ -23,3 +23,5 @@ This is a project that implement optimization algorithms. For example : gene alg
     list(zip(A,B)) # 將2個陣列按序列結合成1個zip，再用list轉成陣列
     A[:],B[:]=zip(*x) # 將x分開成2個陣列
     bin(x)[2:].zfill(num) # 用bin轉成二位元，去除前兩個後，用zfill在數字前補0
+## 結果
+![image](https://github.com/leodflag/Python_Optimization-Algorithm/blob/master/ga_result.png)
